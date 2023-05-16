@@ -7,6 +7,7 @@ body {
     background-image: url(logo\ firmy.png);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     width: 100vw;
     height: 100vh;
 }
